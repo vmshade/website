@@ -1,4 +1,3 @@
-<p></p>
 <p>Most of what i do is on <a href="https://github.com/vmshade" target="_blank">GitHub</a>.</p>
 
 <p>
@@ -14,7 +13,7 @@
 		font-size: 16px;
 		color: var(--text-color);
 		margin-top: 0px;
-        margin-bottom: 10px;
+		margin-bottom: 10px;
 	}
 	a {
 		color: var(--text-color);
