@@ -12,8 +12,7 @@
 	p {
 		font-size: 16px;
 		color: var(--text-color);
-		margin-top: 0px;
-		margin-bottom: 10px;
+		margin: 0 0 10px 0;
 	}
 	a {
 		color: var(--text-color);
