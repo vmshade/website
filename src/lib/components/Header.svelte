@@ -5,12 +5,12 @@
 <style>
 	h3 {
 		font-size: 25px;
-		color: rgb(255, 255, 255);
+		color: var(--text-color);
 		margin-top: 0px;
 		text-align: left;
 		margin-bottom: 0px;
 	}
 	.logo {
-		margin-top: 200px;
+		margin-top: 50px;
 	}
 </style>

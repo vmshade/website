@@ -16,20 +16,18 @@
 </div>
 
 <style>
-	.page {
-		min-height: 100vh;
-		display: flex;
-		flex-direction: column;
-		align-items: stretch;
-	}
-
-	main {
-		width: 100%;
-		max-width: 600px;
-		margin: 90px auto 0;
-		padding: 0 1rem;
-		display: flex;
-		flex-direction: column;
-		align-items: flex-start;
-	}
+    .page {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: center;
+    }
+    main {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 1rem; 
+    }
 </style>
+

@@ -18,8 +18,7 @@
 </script>
 
 <p>
-	A <span bind:this={ageElement}></span> year old into designing and making minimalistic software, gaming, pixel art,
-	watching anime, and hardware development
+	A <span bind:this={ageElement}></span> year old Developer and Hardware Engineer
 </p>
 
 <style>

@@ -1,10 +1,26 @@
 :root {
-    --text-color: #b9b9b9;
+    --text-color: #cdd6f4;
     --text-color-alternative: rgb(118, 118, 118);
+    --background-color: #181825;
+    --icon-color: #bac2de;
+    --subheading-color: #bac2de;
+    --pill-text-color: #bac2de;
+    --pill-background-color: #1e1e2e;
+    --discord-status-online: #a6e3a1;
+    --discord-status-idle: #f9e2af;
+    --discord-status-dnd: #f38ba8;
+    --discord-status-offline: #cdd6f4;
+    --card-background-color: #1e1e2e;
+    --radius: 999px;
 }
-
-
 body {
     font-family: 'Plus Jakarta Sans', sans-serif;
-    background-color: black;
+    background-color: var(--background-color);
+}
+* {
+  box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    font-size: 110%;
 }
